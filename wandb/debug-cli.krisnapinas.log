@@ -1,0 +1,28 @@
+2024-06-20 07:55:54 INFO open for scan: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/run-y1g27cyc.wandb
+2024-06-20 07:55:54 INFO watching files in: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files
+2024-06-20 07:55:54 INFO run started: y1g27cyc with start time 1718867260.255878
+2024-06-20 07:55:54 INFO saving file wandb-metadata.json with policy now
+2024-06-20 07:55:55 INFO saving file wandb-summary.json with policy end
+2024-06-20 07:55:55 INFO shutting down sender
+2024-06-20 07:55:56 INFO file/dir modified: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/output.log
+2024-06-20 07:55:56 INFO file/dir modified: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/wandb-summary.json
+2024-06-20 07:55:56 INFO Uploaded file /tmp/tmpkc8hm9tbwandb/5v9ma86e-wandb-metadata.json
+2024-06-20 07:55:57 INFO file/dir modified: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/output.log
+2024-06-20 07:55:58 INFO shutting down directory watcher
+2024-06-20 07:55:59 INFO file/dir modified: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/output.log
+2024-06-20 07:55:59 INFO scan: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files
+2024-06-20 07:55:59 INFO scan save: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/output.log output.log
+2024-06-20 07:55:59 INFO scan save: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/wandb-summary.json wandb-summary.json
+2024-06-20 07:55:59 INFO scan save: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/conda-environment.yaml conda-environment.yaml
+2024-06-20 07:55:59 INFO scan save: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/wandb-metadata.json wandb-metadata.json
+2024-06-20 07:55:59 INFO scan save: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/config.yaml config.yaml
+2024-06-20 07:55:59 INFO scan save: /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/requirements.txt requirements.txt
+2024-06-20 07:55:59 INFO shutting down file pusher
+2024-06-20 07:55:59 INFO waiting for file pusher
+2024-06-20 07:55:59 INFO Uploaded file /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/output.log
+2024-06-20 07:55:59 INFO Uploaded file /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/config.yaml
+2024-06-20 07:55:59 INFO Uploaded file /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/wandb-summary.json
+2024-06-20 07:56:00 INFO Uploaded file /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/requirements.txt
+2024-06-20 07:56:00 INFO Uploaded file /home/krisnapinas/workspace/AdaBins/wandb/run-20240620_070740-y1g27cyc/files/conda-environment.yaml
+2024-06-20 07:56:01 INFO file stream finish called
+2024-06-20 07:56:02 INFO file stream finish is done

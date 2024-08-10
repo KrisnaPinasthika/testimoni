@@ -1,0 +1,19 @@
+--data_path ../dataset/nyu/official_splits/test/
+--gt_path ../dataset/nyu/official_splits/test/
+--filenames_file ./train_test_inputs/nyudepthv2_test_files_with_gt.txt
+--input_height 480
+--input_width 640
+--max_depth 10
+--min_depth 1e-3
+
+--checkpoint_path ./checkpoints/SWCA_EffV2M_12-Jul_09-32-nodebs24-tep30-lr0.000357-wd0.1-fe099a95-a52c-453a-9ebf-6fac48cf45d9_best.pt
+--data_path_eval ../dataset/nyu/official_splits/test/
+--gt_path_eval ../dataset/nyu/official_splits/test/
+--filenames_file_eval ./train_test_inputs/nyudepthv2_test_files_with_gt.txt
+--min_depth_eval 1e-3
+--max_depth_eval 10
+--eigen_crop
+--dataset nyu
+--save_dir predictions_nyu
+
+
